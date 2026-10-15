@@ -1,0 +1,6 @@
+{
+  "name": "Golf Games",
+  "description": "Comprehensive golf game scoring, 6s rotating partner dots, skins, US course scorecards, and automatic handicap calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
